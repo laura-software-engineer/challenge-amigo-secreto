@@ -4,7 +4,7 @@ Este é um projeto desenvolvido como parte do desafio "Amigo Secreto" da ONE - O
 
 > Status do Projeto: :heavy_check_mark: Concluído
 
-## :hammer: Funcionalidades do projeto
+## :hammer: Funcionalidades Do Projeto
 
 - Cadastro de participantes
 - Sorteio automático do amigo secreto
@@ -15,6 +15,10 @@ Este é um projeto desenvolvido como parte do desafio "Amigo Secreto" da ONE - O
 - HTML5
 - CSS3
 - JavaScript
+
+## :open_file_folder: Acesso Ao Projeto
+
+Você pode [acessar a página web do projeto aqui](https://laura-software-engineer.github.io/challenge-amigo-secreto/).
 
 ## :ok_woman: Desenvolvedora
 
